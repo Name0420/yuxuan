@@ -1,0 +1,7 @@
+{
+  "name": "单双人版本 光剑精进版（拖尾）",
+  "description": "A gesture-controlled augmented reality lightsaber experience using MediaPipe and particle physics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
